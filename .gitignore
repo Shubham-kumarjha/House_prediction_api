@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# Python bytecode / Cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system / IDE specific files
+.DS_Store
+.vscode/
+.idea/
+
+
+*.joblib
+venv/
+__pycache__/
