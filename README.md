@@ -1,6 +1,6 @@
 # 🏠 California House Price Prediction API 
 
-A production-ready **FastAPI** web service that predicts house prices using a trained Machine Learning model. The API supports both single-data predictions via JSON payloads and bulk file-based batch predictions with downloadable CSV outputs.
+A production-ready **FastAPI** web service that predicts house prices using a trained Machine Learning model. The API supports both single-data predictions via JSON payloads and bulk file-based batch predictions with downloadable CSV outputs..
 
 ---
 
@@ -14,7 +14,7 @@ A production-ready **FastAPI** web service that predicts house prices using a tr
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools  
 
 - **Backend Framework**: FastAPI
 - **Data Processing**: Pandas
@@ -29,7 +29,7 @@ A production-ready **FastAPI** web service that predicts house prices using a tr
 ### 1. Prerequisites
 Ensure you have Python 3.8+ installed on your local machine.
 
-### 2. Installation & Setup
+### 2. Installation & Setup  
 
 1. **Clone the repository:**
    ```bash
