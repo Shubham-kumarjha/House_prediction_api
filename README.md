@@ -1,6 +1,6 @@
-# 🏠 California House Price Prediction API 
+# 🏠 California House Price Prediction API .....
 
-A production-ready **FastAPI** web service that predicts house prices using a trained Machine Learning model. The API supports both single-data predictions via JSON payloads and bulk file-based batch predictions with downloadable CSV outputs..
+A production-ready **FastAPI** web service that predicts house prices using a trained Machine Learning model. The API supports both single-data predictions via JSON payloads and bulk file-based batch predictions with downloadable CSV outputs.
 
 ---
 
